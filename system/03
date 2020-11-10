@@ -1,0 +1,3 @@
+Update your instances of the previous hostname to the new hostname in the following files:
+`etc/hostname`
+`etc/hosts`

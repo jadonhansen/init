@@ -1,0 +1,2 @@
+Run the command `ssh <user@ip>` to connect.
+Enter your password if you set one (this depends on if the VM is using keys or not).
