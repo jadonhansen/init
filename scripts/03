@@ -1,0 +1,4 @@
+#!/bin/bash
+USER=`whoami`
+IP=`ip a | grep inet | grep ens192 | awk '{print $2}' | cut -d "/" -f1`
+echo Your username is $USER and your working IP address is $IP
