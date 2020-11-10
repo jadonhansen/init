@@ -1,0 +1,1 @@
+Most Unix-like operating systems has a file placed called `/etc/resolv.conf` which contains the IP address of the DNS server you're using.

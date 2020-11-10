@@ -1,0 +1,5 @@
+Edit your `etc/hosts` file and add the following entry:
+
+`46.19.122.85  intra.42.fr`
+
+You can test this with `traceroute intra.42.fr`
